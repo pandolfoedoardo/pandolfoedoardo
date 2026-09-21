@@ -1,4 +1,4 @@
-## 📂 Projects undertaken during academic studies
+## 📂  Some Projects undertaken during academic studies
 
 ### 📈 [Stochastic Finance & Quantitative Derivatives](https://github.com/pandolfoedoardo/stochastic-finance-projects)
 A collection of quantitative finance projects covering:
