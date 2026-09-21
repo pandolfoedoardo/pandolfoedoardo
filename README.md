@@ -6,4 +6,4 @@ A collection of quantitative finance projects covering:
 * **Exotic & Path-Dependent Claims:** Closed-form & Monte Carlo pricing of European Down-and-Out barrier options and Asian options.
 * **Numerical Methods:** CRR vs. Leisen-Reimer binomial convergence analysis and multi-asset "Worst-Of" certificate pricing via Cholesky simulation.
 
-*(Upcoming: Numerical Analysis & AI repositories)*
+
