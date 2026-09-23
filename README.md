@@ -6,7 +6,7 @@ A collection of quantitative finance projects covering:
 * **Exotic & Path-Dependent Claims:** Closed-form & Monte Carlo pricing of European Down-and-Out barrier options and Asian options.
 * **Numerical Methods:** CRR vs. Leisen-Reimer binomial convergence analysis and multi-asset "Worst-Of" certificate pricing via Cholesky simulation.
 
-### 🧮 [Numerical Methods for Partial Differential Equations](https://github.com/pandolfoedoardo/numerical-methods-pdes)
+### 🧮 [Numerical Methods for Partial Differential Equations](https://github.com/pandolfoedoardo/Numerical-Methods-for-PDEs)
 Finite element implementations, stability analysis, and a priori convergence verifications in MATLAB:
 * **Poisson Equation (2D Elliptic):** Weak formulation using continuous piecewise linear $\mathcal{P}^1$ finite elements, exact local stiffness assembly, penalty method for Dirichlet boundary conditions, and experimental validation of $L^2$ and $H^1$ asymptotic convergence rates.
 * **Convection-Diffusion Equation:** Analysis of advection-dominated regimes ($\beta = (1, 3)^T$), critical grid pseudo-Péclet number identification and Streamline Upwind Petrov-Galerkin (SUPG) artificial diffusion stabilization.
