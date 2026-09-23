@@ -6,6 +6,9 @@ A collection of quantitative finance projects covering:
 * **Exotic & Path-Dependent Claims:** Closed-form & Monte Carlo pricing of European Down-and-Out barrier options and Asian options.
 * **Numerical Methods:** CRR vs. Leisen-Reimer binomial convergence analysis and multi-asset "Worst-Of" certificate pricing via Cholesky simulation.
 
+  ### [DeFi and AMMs](https://github.com/pandolfoedoardo/AMMs_the_push_and_solve_algorithm_for_Uniswap_v3_clones)
+  Academic research seminar focusing on liquidity mechanics, routing efficiency, and algorithmic execution in Decentralized Finance (DeFi), centered on concentrated liquidity Automated Market Makers (Uniswap v3 and its clones).
+
 ### 🧮 [Numerical Methods for Partial Differential Equations](https://github.com/pandolfoedoardo/Numerical-Methods-for-PDEs)
 Finite element implementations, stability analysis, and a priori convergence verifications in MATLAB:
 * **Poisson Equation (2D Elliptic):** Weak formulation using continuous piecewise linear $\mathcal{P}^1$ finite elements, exact local stiffness assembly, penalty method for Dirichlet boundary conditions, and experimental validation of $L^2$ and $H^1$ asymptotic convergence rates.
