@@ -12,3 +12,6 @@ Finite element implementations, stability analysis, and a priori convergence ver
 * **Convection-Diffusion Equation:** Analysis of advection-dominated regimes ($\beta = (1, 3)^T$), critical grid pseudo-Péclet number identification and Streamline Upwind Petrov-Galerkin (SUPG) artificial diffusion stabilization.
 * **Parabolic Heat Equation (Time-Stepping):** Space semi-discrete Galerkin formulation coupled with the $\theta$-method family (Backward Euler, Forward Euler, Crank-Nicolson), assessing stability vs. parabolic CFL limits and optimal space-time error bounds in $L^2(0,T; L^2(\Omega))$.
 
+### 🤖 [Machine Learning & NLP: Discriminative Models on TinyStories](https://github.com/pandolfoedoardo/nlp-tinystories-classification)
+Multi-label text classification and narrative feature tagging on the TinyStories dataset (~2.74M stories) using PyTorch, Hugging Face Transformers, and scikit-learn.
+
