@@ -20,3 +20,7 @@ Finite element implementations, stability analysis, and a priori convergence ver
 ### 🤖 [Machine Learning & NLP: Discriminative Models on TinyStories](https://github.com/pandolfoedoardo/nlp-tinystories-classification)
 Multi-label text classification and narrative feature tagging on the TinyStories dataset (~2.74M stories) using PyTorch, Hugging Face Transformers, and scikit-learn.
 
+### [Bachelor's Thesis](https://github.com/pandolfoedoardo/BCthesis_pandolfo_edoardo)
+From Boltzman's problem to Kac's chaos
+
+
