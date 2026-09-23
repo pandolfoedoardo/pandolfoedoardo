@@ -17,7 +17,7 @@ Finite element implementations, stability analysis, and a priori convergence ver
   Academic research seminar focusing on liquidity mechanics, routing efficiency, and algorithmic execution in Decentralized Finance (DeFi), centered on concentrated liquidity Automated Market Makers (Uniswap v3 and its clones).
 
 
-### 🤖 [Machine Learning & NLP: Discriminative Models on TinyStories](https://github.com/pandolfoedoardo/nlp-tinystories-classification)
+### 🤖 [Machine Learning & NLP: Discriminative Models on TinyStories](https://github.com/pandolfoedoardo/nlp-tinystories-classification) (TEAM PROJECT)
 Multi-label text classification and narrative feature tagging on the TinyStories dataset (~2.74M stories) using PyTorch, Hugging Face Transformers, and scikit-learn.
 
 ### [Bachelor's Thesis](https://github.com/pandolfoedoardo/BCthesis_pandolfo_edoardo)
